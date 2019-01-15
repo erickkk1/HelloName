@@ -8,7 +8,7 @@ namespace HelloName
         {
             // write my name .
             string name = "Eric Claudsat";
-            Console.WriteLine(name);
+            Console.WriteLine("Hello " + name + "!");
             Console.WriteLine("press any key to continue...");
             Console.ReadKey(true);
         }
